@@ -209,6 +209,9 @@ h2 {
     padding: 80px;
     background-color: #E9EAEF;
 }
+.area3--text {
+    margin-bottom: 50px;
+}
 .area4 {
     display: grid;
     grid-template-columns: 490px 1fr;
